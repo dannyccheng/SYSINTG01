@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Sample Model",
+    "owner": "Developer",
+    "description": "Sample"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Sample diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "QA"
+  }
+}
